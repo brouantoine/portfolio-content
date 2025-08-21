@@ -32,17 +32,48 @@
     "email": "mailto:brouantoineassanvo@gmail.com"
   },
   "projects": [
-    {
-      "id": 1,
-      "title": "Marketplace E-commerce",
-      "description": "Plateforme permettant aux e-commerçants de créer leurs boutiques.",
-      "technologies": ["React", "Node.js", "PostgreSQL"],
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1470&auto=format",
-      "link": "https://www.yatou.ci",
-      "isExternal": true,
-      "status": "completed"
-    }
-  ],
+  {
+    "id": 1,
+    "title": "Marketplace E-commerce",
+    "description": "Plateforme permettant aux e-commerçants de créer leurs boutiques et ajouter des produits.",
+    "technologies": ["React", "Node.js", "PostgreSQL"],
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1470&auto=format",
+    "link": "https://www.yatou.ci",
+    "isExternal": true,
+    "status": "completed"
+  },
+  {
+    "id": 2,
+    "title": "Plateforme Educative",
+    "description": "Plateforme éducative réunissant enseignants et étudiants avec recherche avancée.",
+    "technologies": ["React", "DRF", "Django", "PostgreSQL"],
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1470&auto=format",
+    "link": "#",
+    "isExternal": false,
+    "status": "in-progress"
+  },
+  {
+    "id": 3,
+    "title": "Réseau Social Educatif",
+    "description": "Application mobile pour la communauté éducative avec outils collaboratifs.",
+    "technologies": ["DRF", "Python", "AWS", "React Native"],
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?q=80&w=1472&auto=format",
+    "link": "#",
+    "isExternal": false,
+    "status": "in-progress"
+  },
+  {
+    "id": 4,
+    "title": "Gestion de Stock",
+    "description": "Solution complète avec suivi temps réel et analyses prédictives.",
+    "technologies": ["Django", "React", "PostgreSQL", "Chart.js"],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format",
+    "link": "#",
+    "isExternal": false,
+    "status": "in-progress"
+  }
+]
+
   "cv": {
     "url": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/docs/cv.pdf",
     "fileName": "CV-Assanvo-Brou-Antoine.pdf"

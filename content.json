@@ -37,7 +37,7 @@
     "title": "Marketplace E-commerce",
     "description": "Plateforme permettant aux e-commerçants de créer leurs boutiques et ajouter des produits.",
     "technologies": ["React", "Node.js", "PostgreSQL"],
-    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=1470&auto=format",
+    "image": "https://github.com/brouantoine/portfolio-content/blob/a7b792f51c457dce17208d8a5146ec8dd657bb96/images/Yatou.jpg",
     "link": "https://www.yatou.ci",
     "isExternal": true,
     "status": "completed"

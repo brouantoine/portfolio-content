@@ -43,16 +43,6 @@
     "status": "completed"
   },
   {
-    "id": 2,
-    "title": "Plateforme Educative",
-    "description": "Plateforme éducative réunissant enseignants et étudiants avec recherche avancée.",
-    "technologies": ["React", "DRF", "Django", "PostgreSQL"],
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdXSK6CdsirX3SllbMuhb5ngeCRIobAeX4w&s",
-    "link": "#",
-    "isExternal": false,
-    "status": "in-progress"
-  },
-  {
     "id": 3,
     "title": "Réseau Social Educatif",
     "description": "Application mobile pour la communauté éducative avec outils collaboratifs.",

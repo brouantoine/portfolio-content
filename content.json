@@ -47,7 +47,7 @@
     "title": "Plateforme Educative",
     "description": "Plateforme éducative réunissant enseignants et étudiants avec recherche avancée.",
     "technologies": ["React", "DRF", "Django", "PostgreSQL"],
-    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=1470&auto=format",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdXSK6CdsirX3SllbMuhb5ngeCRIobAeX4w&s",
     "link": "#",
     "isExternal": false,
     "status": "in-progress"

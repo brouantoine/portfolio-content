@@ -1,7 +1,7 @@
 {
   "profile": {
     "fullName": "Assanvo Brou Antoine",
-    "role": "Ingénieur Logiciel",
+    "role": "Développeur Fullstack",
     "birthdate": "2001-12-20",
     "avatar": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/images/Couverture.png",
     "cover": "https://raw.githubusercontent.com/brouantoine/portfolio-content/main/images/cover.jpeg"
@@ -12,7 +12,7 @@
     "formEmail": "brouantoineassanvo@gmail.com"
   },
   "copy": {
-    "heroBubbleTitle": ["Ingénieur Logiciel", "Développeur Fullstack"],
+    "heroBubbleTitle": ["Développeur Fullstack"],
     "heroBubbleSubtitle": "Passion pour l'innovation et détermination sans faille"
   },
   "experiences": [
